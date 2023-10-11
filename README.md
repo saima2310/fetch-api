@@ -1,4 +1,6 @@
 
+
+```markdown
 # React.js User Details App
 
 This is a simple web application built with React.js that allows you to explore a list of user profiles fetched from a public API. You can easily filter and search for specific user details, providing a seamless and efficient way to find the information you need.
@@ -9,20 +11,20 @@ To use this app locally or on your GitHub Pages, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
- 
+   ```bash
    git clone https://github.com/yourusername/react-user-details-app.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
 
-   
+   ```bash
    cd react-user-details-app
    npm install
    ```
 
 3. **Run the App**: Start the development server to run the app locally.
 
-
+   ```bash
    npm start
    ```
 
@@ -51,3 +53,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 Enjoy using the React.js User Details App!
 ```
+
